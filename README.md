@@ -1,4 +1,4 @@
-<h1 align='center'>Projeto Buraco</h1>
+<h1 align='center'>Projeto Contato</h1>
 <br>
 <p align='left'>Projeto para a disciplina de Estrutura de Dados sobre Classes em C++. O objetivo foi construir um programa que permita a digitação (e posterior exibição), dos dados relativos à classe "Contato" abaixo descrita:
 <table align='center'>
